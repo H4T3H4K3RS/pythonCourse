@@ -2,7 +2,7 @@
 
 ## The while loop. Intro to the concept of cycles.
 
-## theory
+## cheatsheet
 
 A while loop in Python is a type of loop that allows you to execute a block of code repeatedly as long as a certain
 condition is met. The basic syntax of a while loop is as follows:
@@ -14,8 +14,6 @@ while condition:
 
 A cycle is a sequence of instructions that is repeated a certain number of times or until a certain condition is met.
 Loops such as while loops are used to create cycles in code.
-
-## cheatsheet
 
 ```python
 # Initialize a variable

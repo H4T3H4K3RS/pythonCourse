@@ -1,16 +1,6 @@
 # Lesson 1
 
 # Basics of working with real numbers, rounding. Logical type of variables, conditional operator. If, else.
-## theory
-
-Themes:
-
-- HW check
-- Revision
-- If/else
-- (Opt) match case
-- Turnary operator
-- (Opt) None
 
 ## cheatsheet
 

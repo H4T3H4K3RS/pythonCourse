@@ -2,19 +2,6 @@
 
 # Integers, Input/Output, application of arithmetic operations for integers. Simple operations with strings.
 
-## theory
-
-Themes:
-
-- Python (about, etc…)
-- PyCharm
-- Colab
-- Hello World
-- Variables
-- Primitive types
-- (opt) Comments
-- Arithmetic
-
 ## cheatsheet
 
 ### Variables:

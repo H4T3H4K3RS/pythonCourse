@@ -2,10 +2,6 @@
 
 ## Theme
 
-## theory
-
-- 
-
 ## cheatsheet
 
 ```python
