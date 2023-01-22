@@ -63,3 +63,15 @@ words = my_string.split()
 
 5. Create a string that represents a document with multiple versions, replace all occurrences of the word "version" with
    the word "edition" and print the modified document.
+
+6. Create a list of email addresses and check if any of them is from a specific domain.
+
+7. Create a string that represents a customer's address, split it into individual components (street name, city, state,
+   zip code) and print the city.
+
+8. Create a string that represents a password, check if it contains at least one special character and one number.
+
+9. Create a string that represents a website url, check if it starts with "https" or "www"
+
+10. Create a string that represents a CSV file and join all the elements of a list of strings with a comma as a
+    separator.
