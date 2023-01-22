@@ -50,3 +50,16 @@ words = my_string.split()
 
 - Create a program that takes a string as input and then outputs the string with all spaces removed
 - Create a program that takes a string as input and then outputs the string with all letters reversed
+
+## classwork
+
+1. Create a list of prices for a product catalog, sort the list by ascending order and print the 3 lowest prices.
+
+2. Create a list of employee names, remove an employee who left the company from the list.
+
+3. Create a list of customer IDs, find the index of a specific customer ID in the list.
+
+4. Create a list of product IDs and count the number of occurrences of a specific product ID in the list.
+
+5. Create a string that represents a document with multiple versions, replace all occurrences of the word "version" with
+   the word "edition" and print the modified document.
